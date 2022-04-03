@@ -1,0 +1,142 @@
+{
+	"general": {
+		"animationSpeed": 1.0,
+		"disable_mod": false,
+		"background_color": 1867534416,
+		"space_modules": false,
+		"shadow_text": true,
+		"animations": true,
+		"fontScale": 0.7
+	},
+	"modules_right": [
+		{
+			"name": "system",
+			"name_color": 16230584,
+			"value_color": 16777215,
+			"lines": {
+				"opengl_version": true,
+				"display": true,
+				"java_version": true,
+				"gpu_driver": true,
+				"memory_usage": true,
+				"allocated_memory": true,
+				"cpu": true,
+				"gpu": true
+			},
+			"enabled": true
+		}
+	],
+	"modules_left": [
+		{
+			"name": "minecraft",
+			"name_color": 16230584,
+			"value_color": 16777215,
+			"lines": {
+				"minecraft": true
+			},
+			"enabled": true
+		}, 
+		{
+			"name": "empty",
+			"lines": {
+				"nothing": true
+			},
+			"enabled": true
+		}, 
+		{
+			"color_x": 5623292,
+			"color_y": 16230584,
+			"color_z": 16777215,
+			"name": "coords",
+			"name_color": 16777215,
+			"lines": {
+				"chunk_coords": true,
+				"player_coords": true,
+				"block_coords": true,
+				"chunk_relative_coords": true
+			},
+			"enabled": true
+		}, 
+		{
+			"name": "empty",
+			"lines": {
+				"nothing": true
+			},
+			"enabled": true
+		}, 
+		{
+			"name": "location",
+			"name_color": 5623292,
+			"value_color": 16777215,
+			"lines": {
+				"light": true,
+				"biome": true,
+				"rotation": true,
+				"facing": true,
+				"local_difficulty": false,
+				"days_played": true,
+				"dimension": true,
+				"highest_block": false,
+				"highest_block_server": false,
+				"light_server": true
+			},
+			"enabled": true
+		}, 
+		{
+			"name": "system",
+			"name_color": 16230584,
+			"value_color": 16777215,
+			"lines": {
+				"opengl_version": true,
+				"display": true,
+				"java_version": true,
+				"gpu_driver": true,
+				"memory_usage": true,
+				"allocated_memory": true,
+				"cpu": true,
+				"gpu": true
+			},
+			"enabled": true
+		}, 
+		{
+			"name": "entity",
+			"name_color": 16777215,
+			"value_color": 16777215,
+			"lines": {
+				"entities": true,
+				"water_creature": true,
+				"underground_water_creature": true,
+				"ambient": true,
+				"particles": true,
+				"axolotls": true,
+				"creature": true,
+				"water_ambient": true,
+				"monster": true,
+				"misc": true
+			},
+			"enabled": true
+		}, 
+		{
+			"name": "sound",
+			"name_color": 16230584,
+			"value_color": 16777215,
+			"lines": {
+				"ambient_sounds": true,
+				"sounds": true,
+				"mood": true
+			},
+			"enabled": true
+		}, 
+		{
+			"name": "help",
+			"name_color": 5623292,
+			"value_color": 16777215,
+			"lines": {
+				"help": true,
+				"pie_graph": true,
+				"fps_tps": true
+			},
+			"enabled": true
+		}
+	]
+}

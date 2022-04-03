@@ -1,0 +1,21 @@
+==Section:TopLeft, -2, 0==
+//
+// #F7A8B8 
+//
+rosecafe ♡
+fps: &{#FFF7A8B8}{fps}&f
+
+&{#FF55CDFC}x&{#FFFFFFFF}y&{#FFF7A8B8}z: &{#FF55CDFC}{bx} &{#FFFFFFFF}{by} &{#FFF7A8B8}{bz}
+facing: &{#FFF7A8B8}{facing}&f
+//
+//
+//
+==Section:TopRight==
+Time: &{#FFF7A8B8}{real_time:HH:mm}
+speed: &{#FFF7A8B8}{velocity_xz}
+//
+//
+//
+// ==Section:BottomRight==
+// biome_id: {biome_id}
+// {chunks_loaded}:{chunks_rendered}	
