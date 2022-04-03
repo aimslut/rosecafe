@@ -7,4 +7,4 @@ minecraft modpack for rosecafe server
 3) Paste the contents in your .minecraft folder located at %appdata%/.minecraft
 4) Choose which optional mods you want from the folder
 5) Enable whichever resource packs you prefer
-6) Add rosecafe.ddns.net:28961 to your server list and enjoy :) 
+6) Add the latest ip in discord to your serverlist and enjoy :) 
